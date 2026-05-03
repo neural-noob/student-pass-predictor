@@ -1,0 +1,4 @@
+numpy==2.x.x
+scikit-learn==1.x.x
+joblib==1.x.x
+threadpoolctl==x.x.x
